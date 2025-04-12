@@ -3,8 +3,8 @@ It was developed as part of a philanthropic effort to help people who have been 
 
 # Feature of Product 
 
-![Alt text](asset/A.png)
+![A](Asset/A.png)
 
-![Alt text](Asset/C.png)
+![B](Asset/C.png)
 
-![Alt text](Asset/D.png)
+![C](Asset/D.png)
