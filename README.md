@@ -5,6 +5,6 @@ It was developed as part of a philanthropic effort to help people who have been 
 
 ![A](Asset/A.jpg)
 
-![B](Asset/C.jpg)
+![B](Asset/B.jpg)
 
 ![C](Asset/D.jpg)
